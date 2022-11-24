@@ -97,3 +97,9 @@ The `dist` folder contains the following files:
 ```
 
 You can load this `dist` folder in chrome extension.
+
+<br>
+For more information, you can refer to the official documentation:
+
+> https://developer.chrome.com/extensions
+> https://developer.chrome.com/extensions/samples
